@@ -3,4 +3,12 @@
 
  Site: https://misfits.netlify.app/
 
+-------------------------------------------------
+What i used:                                    |
+                                                |
+HTML                                            |
+CSS                                             |
+Bootstrap                                       |
+                                                |
+-------------------------------------------------
  Open For Critic
